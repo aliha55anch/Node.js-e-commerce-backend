@@ -1,8 +1,4 @@
-# Ecommerce Backend — Complete Guide
-
-This document explains the entire `backend` folder of the Ecommerce Website project — every file, what it does, and how the whole system works together.
-
----
+# Ecommerce Backend 
 
 ## 1. Tech Stack
 
@@ -14,7 +10,7 @@ This document explains the entire `backend` folder of the Ecommerce Website proj
 | Mongoose    | ODM for MongoDB (schema + queries)             |
 | JWT         | Authentication tokens                          |
 | bcryptjs    | Password hashing                               |
-| Cloudinary  | Image upload / storage / CDN                   |
+| Cloudinary  | Image upload/storage / CDN                   |
 | Stripe      | Payment processing (payment intents)           |
 | Nodemailer  | Sending emails (password reset)                |
 | dotenv      | Loading environment variables                  |
